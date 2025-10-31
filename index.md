@@ -3,8 +3,8 @@
 
 ### wsl
 <p>
-  [basic-commands](https://learn.microsoft.com/zh-cn/windows/wsl/basic-commands)
-  [basic-commands](https://www.cnblogs.com/justrico/p/17167786.html)
+  <https://learn.microsoft.com/zh-cn/windows/wsl/basic-commands>
+  <https://www.cnblogs.com/justrico/p/17167786.html>
 </p>
 
 
