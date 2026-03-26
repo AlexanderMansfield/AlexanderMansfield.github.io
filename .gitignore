@@ -1,0 +1,45 @@
+➜  branch_v5_20241125_v1.1.99b2 git:(test) cat .gitignore
+ HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+# build/
+# !**/src/main/**/build/
+# !**/src/test/**/build/
+**/*.cvsignore
+
+### VS Code ###
+.vscode/
+
+.svn/
+**/.idea/
+**/*.iws
+**/*.iml
+**/*.ipr
+**/*.class
+**/**/classes/ 
+
+node_modules/
