@@ -19,11 +19,12 @@ const posts = (await getCollection('blog')).sort(
 		<style>
 			main {
 				/* width: 960px; */
-				width: 100vw;
-				padding-top: 2rem;
-				padding-bottom: 1rem;
-				padding-left: 2rem;
-				padding-right: 0rem;
+				/* width: 100vw; */
+				width: calc(100% - 10rem);
+				padding-top: 1rem;
+			    padding-right: 5rem;
+    			padding-bottom: 1rem;
+    			padding-left: 5rem;
 			}
 			ul {
 				display: flex;
