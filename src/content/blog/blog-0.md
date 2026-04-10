@@ -1,5 +1,5 @@
 ---
-title: 'first blog for test'
+title: 'Blog for test'
 pubDate: 2015-01-01
 description: '这是我 Astro 博客的第一篇文章。'
 author: 'Astro 学习者'
